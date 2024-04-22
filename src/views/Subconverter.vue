@@ -468,14 +468,28 @@ export default {
         },
         shortTypes: {
           v1.mk: "https://v1.mk/short",
+          d1.mk: "https://subconver-hilaotie.koyeb.app/sub?",
+          dlj.tf: "https://dlj.tf/short",
+          suo.yt: "https://suo.yt/short",
+          sub.cm: "https://sub.cm/short",
         },
         customBackend: {
-          "老铁后端": "https://subconver-hilaotie.koyeb.app/sub?",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://apiurl.v1.mk",
+          "老铁后端": "https://subconver-hilaotie.koyeb.app/sub?",
+          "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
+          nameless13提供: "https://www.nameless13.com",
+          subconverter作者提供: "https://sub.xeton.dev",
+          "sub-web作者提供": "https://api.wcc.best",
+          "sub作者&lhie1提供": "https://api.dler.io",
         },
         backendOptions: [
-          {value: "https://subconver-hilaotie.koyeb.app/sub?"},
           {value: "https://apiurl.v1.mk"},
+          {value: "https://subconver-hilaotie.koyeb.app/sub?"},
+          {value: "https://api.tsutsu.one"},
+          {value: "https://www.nameless13.com"},
+          {value: "https://sub.xeton.dev"},
+          {value: "https://api.wcc.best"},
+          {value: "https://api.dler.io"},
         ],
         remoteConfig: [
           {
