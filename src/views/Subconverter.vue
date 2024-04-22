@@ -467,13 +467,14 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
-          "v1.mk": "https://v1.mk/short",
-          "d1.mk": "https://d1.mk/short",
-          "dlj.tf": "https://dlj.tf/short",
-          "suo.yt": "https://suo.yt/short",
-          "sub.cm": "https://sub.cm/short",
+          v1.mk: "https://v1.mk/short",
+          d1.mk: "https://d1.mk/short",
+          dlj.tf: "https://dlj.tf/short",
+          suo.yt: "https://suo.yt/short",
+          sub.cm: "https://sub.cm/short",
         },
         customBackend: {
+          "老铁后端": "https://subconver-hilaotie.koyeb.app/sub?",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://apiurl.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
           "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
@@ -483,6 +484,7 @@ export default {
           "sub作者&lhie1提供": "https://api.dler.io",
         },
         backendOptions: [
+          {value: "https://subconver-hilaotie.koyeb.app/sub?"},
           {value: "https://apiurl.v1.mk"},
           {value: "https://sub.d1.mk"},
           {value: "https://api.tsutsu.one"},
