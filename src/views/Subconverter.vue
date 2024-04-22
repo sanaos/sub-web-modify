@@ -468,7 +468,7 @@ export default {
         },
         shortTypes: {
           v1.mk: "https://v1.mk/short",
-          d1.mk: "https://subconver-hilaotie.koyeb.app/sub?",
+          "d1.mk": "https://subconver-hilaotie.koyeb.app/sub?",
           dlj.tf: "https://dlj.tf/short",
           suo.yt: "https://suo.yt/short",
           sub.cm: "https://sub.cm/short",
