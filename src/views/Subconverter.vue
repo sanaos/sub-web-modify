@@ -496,6 +496,11 @@ export default {
             label: "通用",
             options: [
               {
+                label: "DNS防泄漏",
+                value: 
+                  "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
+              },
+              {
                 label: "默认",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
