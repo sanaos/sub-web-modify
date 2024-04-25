@@ -474,7 +474,7 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
-          "老铁后端": "p01--subweb--mspfljbftfzq.code.run",
+          "老铁后端": "https"://p01--subweb--mspfljbftfzq.code.run",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://apiurl.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
           "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
@@ -483,7 +483,7 @@ export default {
           "sub-web作者提供": "https://api.wcc.best",
         },
         backendOptions: [
-          {value: "p01--subweb--mspfljbftfzq.code.run"},
+          {value: "https://p01--subweb--mspfljbftfzq.code.run"},
           {value: "https://apiurl.v1.mk"},
           {value: "https://sub.d1.mk"},
           {value: "https://api.tsutsu.one"},
