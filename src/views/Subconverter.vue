@@ -484,6 +484,7 @@ export default {
           "sub作者&lhie1提供": "https://api.dler.io",
         },
         backendOptions: [
+          {value: "https://p01--subweb--mspfljbftfzq.code.run/sub?"},
           {value: "https://url.v1.mk"},
           {value: "https://sub.d1.mk"},
           {value: "https://api.tsutsu.one"},
