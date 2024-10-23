@@ -474,7 +474,7 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
-          "老铁":"https://p01--subweb--mspfljbftfzq.code.run/sub?",
+          "老铁":"https://p01--subweb--mspfljbftfzq.code.run",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
           "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
@@ -484,7 +484,7 @@ export default {
           "sub作者&lhie1提供": "https://api.dler.io",
         },
         backendOptions: [
-          {value: "https://p01--subweb--mspfljbftfzq.code.run/sub?"},
+          {value: "https://p01--subweb--mspfljbftfzq.code.run"},
           {value: "https://url.v1.mk"},
           {value: "https://sub.d1.mk"},
           {value: "https://api.tsutsu.one"},
