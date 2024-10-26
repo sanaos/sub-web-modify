@@ -467,25 +467,13 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
-          "短链进这个网址转": "https://dl.hilaotie.eu.org/dl",
-          "v1.mk": "https://v1.mk/short",
-          "d1.mk": "https://d1.mk/short",
-          "dlj.tf": "https://dlj.tf/short",
-          "suo.yt": "https://suo.yt/short",
-          "sub.cm": "https://sub.cm/short",
+          "短链进这个网址转https://dl.hilaotie.eu.org/dl": "https://dl.hilaotie.eu.org/dl",
         },
         customBackend: {
           "老铁":"https://p01--subweb--mspfljbftfzq.code.run",
         },
         backendOptions: [
           {value: "https://p01--subweb--mspfljbftfzq.code.run"},
-          {value: "https://url.v1.mk"},
-          {value: "https://sub.d1.mk"},
-          {value: "https://api.tsutsu.one"},
-          {value: "https://www.nameless13.com"},
-          {value: "https://sub.xeton.dev"},
-          {value: "https://api.wcc.best"},
-          {value: "https://api.dler.io"},
         ],
         remoteConfig: [
           {
