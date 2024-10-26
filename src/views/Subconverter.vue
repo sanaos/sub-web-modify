@@ -467,6 +467,7 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
+          "老铁": "https://dl.hilaotie.eu.org/dl",
           "v1.mk": "https://v1.mk/short",
           "d1.mk": "https://d1.mk/short",
           "dlj.tf": "https://dlj.tf/short",
