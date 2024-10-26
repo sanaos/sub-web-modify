@@ -486,6 +486,7 @@ export default {
         },
         backendOptions: [
           {value: "https://p01--subweb--mspfljbftfzq.code.run"},
+          {value: "https://dl.hilaotie.eu.org/dl"},
           {value: "https://url.v1.mk"},
           {value: "https://sub.d1.mk"},
           {value: "https://api.tsutsu.one"},
