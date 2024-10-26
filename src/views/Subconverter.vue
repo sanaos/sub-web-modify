@@ -467,7 +467,7 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
-          "短链进这个网址转": "https://dl.hilaotie.eu.org/dl",
+          "短链进这个网址转": "https://short.hilaotie.eu.org",
         },
         customBackend: {
           "老铁":"https://p01--subweb--mspfljbftfzq.code.run",
