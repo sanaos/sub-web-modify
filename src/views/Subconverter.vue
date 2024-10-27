@@ -467,7 +467,7 @@ export default {
           "自动判断客户端": "auto",
         },
         shortTypes: {
-          "short.hilaotie.eu.org": "https://short.hilaotie.eu.org",
+          "short.hilaotie.eu.org": "https://short.hilaotie.eu.org/short",
         },
         customBackend: {
           "老铁":"https://p01--subweb--mspfljbftfzq.code.run",
