@@ -484,6 +484,10 @@ export default {
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
+                label: "安格视界标准",
+                value: "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-LIAN.ini"
+              },
+              {
                 label: "安格视界mini",
                 value: "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-mini.ini"
               },
