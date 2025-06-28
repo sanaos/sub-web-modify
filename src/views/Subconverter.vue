@@ -506,8 +506,7 @@ export default {
               {
                 label: "极简规则",
                 value: "https://raw.githubusercontent.com/imdnsk/abcdef/refs/heads/main/sub/clash1.ini"
-              },
-              
+              }，              
               {
                 label: "规则全",
                 value: "https://raw.githubusercontent.com/imdnsk/abcdef/refs/heads/main/sub/clash.ini"
