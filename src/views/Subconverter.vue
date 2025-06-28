@@ -504,8 +504,13 @@ export default {
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
-                label: "默认（自动测速）",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini"
+                label: "极简规则",
+                value: "https://raw.githubusercontent.com/imdnsk/abcdef/refs/heads/main/sub/clash1.ini"
+              },
+              
+              {
+                label: "规则全",
+                value: "https://raw.githubusercontent.com/imdnsk/abcdef/refs/heads/main/sub/clash.ini"
               },
               {
                 label: "默认（索尼电视专用）",
