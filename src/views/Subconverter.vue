@@ -474,6 +474,8 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
+          "【老铁】": "https://p01--subweb--mspfljbftfzq.code.run",
+          "【老铁2号】": "https://zjpcvjxpewku.ap-northeast-1.clawcloudrun.com",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
           "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
@@ -498,6 +500,10 @@ export default {
               {
                 label: "默认",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
+              },
+              {
+                label: "规则齐全（自动测速）",
+                value: "https://raw.githubusercontent.com/cutethotw/ClashRule/refs/heads/main/GeneralClashRule.ini"
               },
               {
                 label: "默认（自动测速）",
@@ -1413,3 +1419,4 @@ export default {
   }
 };
 </script>
+
