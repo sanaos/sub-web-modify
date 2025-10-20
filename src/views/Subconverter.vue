@@ -502,12 +502,12 @@ export default {
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
-                label: "全分组规则齐全-防 DNS 泄漏",
-                value: "https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/refs/heads/main/cfg/Custom_Clash_Full.ini"
+                label: "全分组-标准规则-防 DNS 泄漏",
+                value: "https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/refs/heads/main/cfg/Custom_Clash.ini"
               },
               {
-                label: "全分组规则齐全-SMART版-防 DNS 泄漏",
-                value: "https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/refs/heads/main/cfg/Custom_Clash_Smart_Full.ini"
+                label: "全分组-标准规则-SMART版-防 DNS 泄漏",
+                value: "https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/refs/heads/main/cfg/Custom_Clash_Smart.ini"
               },
               {
                 label: "规则齐全（自动测速）",
@@ -1427,5 +1427,6 @@ export default {
   }
 };
 </script>
+
 
 
