@@ -478,6 +478,8 @@ export default {
           "sub.cm": "https://sub.cm/short",
         },
         customBackend: {
+          "【老铁】": "https://p01--subweb--mspfljbftfzq.code.run",
+          "【老铁2号】": "https://phxemflhmhcd.ap-northeast-1.clawcloudrun.com",
           "肥羊增强型后端【vless reality+anytls】": "https://api.v1.mk",
           "肥羊备用后端【vless reality+anytls】": "https://url.v1.mk",
         },
